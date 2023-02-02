@@ -24,8 +24,9 @@ Best Practices and Tools around development, deployment and maintainance of Aval
 ## Documentation
 
 
-## Blogs
+## Blogs and Books
 
+* [Mastering Avalanche](https://github.com/ava-labs/mastering-avalanche) Mastering Avalanche 1st Edition - The Internet of Finance.
 * [Official Avalanche Blog](https://medium.com/@avalancheavax) Official Avalanche Blog on Medium
 
 
