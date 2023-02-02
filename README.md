@@ -16,6 +16,7 @@ Best Practices and Tools around development, deployment and maintainance of Aval
 
 * [SubNet-EVM](https://github.com/ava-labs/subnet-evm) Subnet with EVM
 * [XSVM](https://github.com/ava-labs/xsvm) Cross Subnet Virtual Machine
+* [BulletproofVM](https://github.com/usmaneth/BulletproofVM) Zero-Knowledge Virtual Machine
 
 ## Data storage
 
