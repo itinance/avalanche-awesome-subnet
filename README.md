@@ -11,3 +11,15 @@ Best Practices and Tools around development of Avalanche Subnets
 ## Data storage
 
 ## Best practices for Validators
+
+
+## Documentation
+
+
+## Blogs
+
+
+## Tutorials
+
+* [Precompiles](https://medium.com/avalancheavax/customizing-the-evm-with-stateful-precompiles-f44a34f39efd): Customizing the EVM with Stateful Precompiles
+
