@@ -14,6 +14,7 @@ Best Practices and Tools around development, deployment and maintainance of Aval
 
 ## Example VMs
 
+* [SubNet-EVM](https://github.com/ava-labs/subnet-evm) Subnet with EVM
 * [XSVM](https://github.com/ava-labs/xsvm) Cross Subnet Virtual Machine
 
 ## Data storage
