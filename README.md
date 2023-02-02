@@ -1,5 +1,6 @@
-# avalanche-awesome-subnet
-Best Practices and Tools around development, deployment and maintainance of Avalanche Subnets
+# Avalanche Awesome SubNet
+
+A curated list of best Practices and Tools around development, deployment and maintainance of awesome Avalanche Subnets. Inspired by awesome-go.
 
 ## Community
 
