@@ -1,6 +1,11 @@
 # avalanche-awesome-subnet
 Best Practices and Tools around development, deployment and maintainance of Avalanche Subnets
 
+## Community
+
+* [Discord](https://discord.com/invite/RwXY7P6) Official Discord Channel
+* [Forum](https://forum.avax.network/) Official Avax Forum
+
 ## Development
 
 ## Build- and Deployment-Tools
